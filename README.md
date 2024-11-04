@@ -20,6 +20,8 @@
 
 *This game was assigned and created with the intentions of learning inheritance, encapsulation, and polymorphism.*
 
-<a name="Adventure_Game_Midterm"> </a>
+# About the Game:
 
-[https://github.com/AbytaMika/abytamika.github.io/blob/main/Midterm%20Project%20-%20Adventure%20Game](#Adventure_Game_Midterm)
+> Plantopia is an adventure game where the player has to complete trivia questions to earn coins.
+> From there, the player is to earn enough coins to unlock the plant shop and purchase plants.
+> The goal is to achieve four plants to win the game. 
