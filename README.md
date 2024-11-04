@@ -81,4 +81,28 @@
 
 ### Challenges:
 > Using a Caesar Cipher during this practice was a little challenging to me. It was
-> particularly easy to just create the two lists then add code to display each. 
+> particularly easy to just create the two lists then add code to display each.
+
+# Refactoring: Adopt-A-Robot Code
+
+![AbeytaRefactoredCode](https://github.com/user-attachments/assets/13134c18-a85f-4f6c-94f8-3dd9c2188073)
+
+### About the Assignment:
+
+> This was a simple assignment where I had to refactor code.
+> Most of the assignment entailed shortening and omitting
+> unecessary code. Throughout the assignment, I also had to ensure that the
+> code was still working up to par. This assignment helped me understand the importance
+> of clean code.
+
+### Challenges:
+
+> Although this assignment was one of the first encounters of code,
+> it had its own challenges. Since it was around Week 2 of the semester,
+> I wasn't super familiar with C# yet. It became a tiny learning curve.
+> Besides that, I'd say the biggest challenge during this assignment was
+> deciding which code was "necessary" and which sections can be "better."
+> The code was running smoothly, and the end goal was to continue running
+> smoothly. This helped me understand that there was no single path during
+> coding and brought on the challenge of having to decide if the code I've
+> presented was the most efficient to either myself or the user. 
