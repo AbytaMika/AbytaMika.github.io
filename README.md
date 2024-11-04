@@ -20,6 +20,6 @@
 
 *This game was assigned and created with the intentions of learning inheritance, encapsulation, and polymorphism.*
 
-<a name="Adventure Game Midterm"> </a>
+<a name="Adventure_Game_Midterm"> </a>
 
-[https://github.com/AbytaMika/abytamika.github.io/blob/main/Midterm%20Project%20-%20Adventure%20Game](#Adventure Game Midterm)
+[https://github.com/AbytaMika/abytamika.github.io/blob/main/Midterm%20Project%20-%20Adventure%20Game](#Adventure_Game_Midterm)
